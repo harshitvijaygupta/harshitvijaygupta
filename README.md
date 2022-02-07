@@ -1,5 +1,5 @@
 - 👋 Hii, I’m @harshitvijaygupta
-- 👀 I’m interested in new Tech in Web-Dev & Designing.
+- 👀 I’m interested in learning new Techs.
 - 🌱 I’m currently learning DSA & Web Development.
 - 💞️ I’m looking to collaborate for the Web-Dev Projects.
-- 📫 You can follow Me here, also on LinkedIn.
+- 📫 You can follow Me here, also on <a href="https://www.linkedin.com/in/harshit-vijay-gupta/>LinkedIn</a>.
