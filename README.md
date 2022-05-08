@@ -46,7 +46,7 @@
 
 <hr/>
 
-<img align="center" src="https://skyline.github.com/harshitvijaygupta/2021" width="400">
+<img align="center" src="https://github.com/harshitvijaygupta/harshitvijaygupta/blob/main/Screenshot%202022-05-09%20012502.jpg?raw=true" width="800">
 
 
 
