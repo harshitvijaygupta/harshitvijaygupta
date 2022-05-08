@@ -7,7 +7,7 @@
 
 - :school: <samp>I'm [Harshit Vijay Gupta](https://harshitvijaygupta.github.io/mysite/), a CSE '23 undergrad at IIIT Bhagalpur.</samp>
 - 🚩 <samp>Design & Content Lead at GDSC - IIIT Bhagalpur.</samp>
-- 👝 <samp>Managed Network Expert at [Chegg Inc.](https://www.cheggindia.com/).</samp>
+- 👝 <samp>Managed Network Expert at [Chegg Inc.](https://www.cheggindia.com/)</samp>
 - :neutral_face: <samp>I **love/do** web development and solving DSA **Programming** problems daily.</samp>
 - 🏆 <samp> **3rd** Position @IIIT-BH Annual E-Sports ENYUGMA'21</samp>
 - 📫 Let's Connect: 
@@ -45,9 +45,8 @@
 <br/>
 
 <hr/>
-<br/>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github" width="400">
+<img align="center" src="https://skyline.github.com/harshitvijaygupta/2021" width="400">
 
 
 
