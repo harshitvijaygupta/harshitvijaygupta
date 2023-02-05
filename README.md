@@ -54,4 +54,6 @@
 </div>
 
 <br><hr>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitvijaygupta&show_icons=true&theme=highcontrast&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitvijaygupta&show_icons=true&theme=highcontrast&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitvijaygupta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
