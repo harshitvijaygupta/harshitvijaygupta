@@ -5,10 +5,11 @@
 <img align="right" alt="GIF" height="200px" src="https://github.com/harshitvijaygupta/mysite/blob/main/img/pf-img.png"/>
 
 
-- :school: <samp>I'm [Harshit Vijay Gupta](https://harshitvijaygupta.github.io/mysite/), a CSE '23 undergrad at IIIT Bhagalpur.</samp>
-- 🚩 <samp>Design & Content Lead at GDSC - IIIT Bhagalpur.</samp>
-- 👝 <samp>Managed Network Expert at [Chegg Inc.](https://www.cheggindia.com/)</samp>
-- :neutral_face: <samp>I **love/do** web development and solving DSA **Programming** problems daily.</samp>
+- :school: <samp>I'm [Harshit Vijay Gupta](https://harshitvijaygupta.github.io/mysite/), a B.Tech in CSE '23 batch undergrad at IIIT Bhagalpur.</samp>
+- 🚩 <samp>Currently, I worked as a SWE Intern @ Fareportal</samp>
+- 🚩 <samp>Design & Content Lead at GDSC - IIIT Bhagalpur (2021-22).</samp>
+- 👝 <samp>Managed Network Expert at [Chegg Inc.](https://www.cheggindia.com/) (2022-Present | Part-Time)</samp>
+- :neutral_face: <samp>I used to do web development stuffs and solving **DSA Programming** problems daily on various platforms.</samp>
 - 🏆 <samp> **3rd** Position @IIIT-BH Annual E-Sports ENYUGMA'21</samp>
 - 📫 Let's Connect: 
  <a href="https://github.com/harshitvijaygupta" target="_blank">
@@ -52,13 +53,5 @@
   <img style="margin: 10px" src="images/photoshop.png" alt="Adobe Photoshop" height="60" />
 </div>
 
-<br/>
-
-<hr/>
-
-<img align="center" src="https://github.com/harshitvijaygupta/harshitvijaygupta/blob/main/Screenshot%202022-05-09%20012502.jpg?raw=true" width="800">
-
-
-
-
- 
+<br><hr>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitvijaygupta&show_icons=true&theme=highcontrast&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
