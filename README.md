@@ -24,17 +24,24 @@
 <br/>
 
 
-## Languages/Tools :-  
+## Tech Stack :-  
 <div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" />
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />   
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />    
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />   
+  <img style="margin: 10px" src="images/c.png" alt="C" height="60" />
+  <img style="margin: 10px" src="images/c++.png" alt="C++" height="60" />
+  <img style="margin: 10px" src="images/csharp.png" alt="C#" height="60" />
+  <img style="margin: 10px" src="images/html5.png" alt="HTML" height="60" />
+  <img style="margin: 10px" src="images/css3.png" alt="CSS" height="60" />
+  <img style="margin: 10px" src="images/javascript.png" alt="JavaScript" height="60" />
+  <img style="margin: 10px" src="images/nodejs.png" alt="NodeJS" height="60" />  
+  <img style="margin: 10px" src="images/mysql.png" alt="MySQL" height="60" />
+</div>
+
+## Frameworks :-
+<div align="center">
+  <img style="margin: 10px" src="images/bootstrap.png" alt="Bootstrap" height="60" />
+  <img style="margin: 10px" src="images/express.png" alt="Express" height="60" />
+  <img style="margin: 10px" src="images/vscode.png" alt="VS Code" height="60" />
+  <img style="margin: 10px" src="images/mysql-workbench.png" alt="MySQL Workbench" height="60" />
 </div>
 
 <br/>
