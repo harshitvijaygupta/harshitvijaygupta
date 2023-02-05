@@ -44,6 +44,14 @@
   <img style="margin: 10px" src="images/mysql-workbench.png" alt="MySQL Workbench" height="60" />
 </div>
 
+## Tools :-
+<div align="center">
+  <img style="margin: 10px" src="images/git.png" alt="Git" height="60" />
+  <img style="margin: 10px" src="images/github.png" alt="GitHub" height="60" />
+  <img style="margin: 10px" src="images/canva.png" alt="Canva" height="60" />
+  <img style="margin: 10px" src="images/photoshop.png" alt="Adobe Photoshop" height="60" />
+</div>
+
 <br/>
 
 <hr/>
