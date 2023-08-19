@@ -30,7 +30,7 @@
   <img style="margin: 10px" src="images/c.png" alt="C" height="60" />
   <img style="margin: 10px" src="images/c++.png" alt="C++" height="60" />
   <img style="margin: 10px" src="images/csharp.png" alt="C#" height="60" />
-  <img style="margin: 10px" src="images/aspNet.png" alt="AspNet" height="60" />
+  <img style="margin: 10px" src="images/aspNet.jpg" alt="AspNet" height="60" />
   <img style="margin: 10px" src="images/html5.png" alt="HTML" height="60" />
   <img style="margin: 10px" src="images/css3.png" alt="CSS" height="60" />
   <img style="margin: 10px" src="images/javascript.png" alt="JavaScript" height="60" />
