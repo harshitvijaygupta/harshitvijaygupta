@@ -30,7 +30,7 @@
   <img style="margin: 10px" src="images/c.png" alt="C" height="60" />
   <img style="margin: 10px" src="images/c++.png" alt="C++" height="60" />
   <img style="margin: 10px" src="images/csharp.png" alt="C#" height="60" />
-  <img style="margin: 10px" src="images/aspnet.png" alt="AspNet" height="60" />
+  <img style="margin: 10px" src="images/aspNet.png" alt="AspNet" height="60" />
   <img style="margin: 10px" src="images/html5.png" alt="HTML" height="60" />
   <img style="margin: 10px" src="images/css3.png" alt="CSS" height="60" />
   <img style="margin: 10px" src="images/javascript.png" alt="JavaScript" height="60" />
@@ -44,8 +44,8 @@
   <img style="margin: 10px" src="images/express.png" alt="Express" height="60" />
   <img style="margin: 10px" src="images/vscode.png" alt="VS Code" height="60" />
   <img style="margin: 10px" src="images/mysql-workbench.png" alt="MySQL Workbench" height="60" />
-  <img style="margin: 10px" src="images/visualstudio.png" alt="VisualStudio" height="60" />
-  <img style="margin: 10px" src="images/sql-server.png" alt="SQL Server" height="60" />
+  <img style="margin: 10px" src="images/visualStudio.jpg" alt="VisualStudio" height="60" />
+  <img style="margin: 10px" src="images/sql-server.jpg" alt="SQL Server" height="60" />
 </div>
 
 ## Tools :-
