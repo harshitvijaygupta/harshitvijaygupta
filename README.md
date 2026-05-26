@@ -5,8 +5,8 @@
 <img align="right" alt="GIF" height="200px" src="https://github.com/harshitvijaygupta/mysite/blob/main/img/pf-img.png"/>
 
 
-- :school: <samp>I'm [Harshit Vijay Gupta](https://harshitvijaygupta.github.io/mysite/), a B.Tech in CSE '23 batch undergrad at IIIT Bhagalpur.</samp>
-- 🚩 <samp>Currently, I worked as a SWE Intern @ Fareportal</samp>
+- :school: <samp>I'm [Harshit Vijay Gupta](https://harshitvijaygupta.github.io/mysite/), a B.Tech in CSE '23 batch graduate from IIIT Bhagalpur.</samp>
+- 🚩 <samp>Currently, I worked as SWE @ Fareportal - Building ease in air travel booking (2023 - Present)</samp>
 - 🚩 <samp>Design & Content Lead at GDSC - IIIT Bhagalpur (2021-22).</samp>
 - 👝 <samp>Managed Network Expert at [Chegg Inc.](https://www.cheggindia.com/) (2022-Present | Part-Time)</samp>
 - :neutral_face: <samp>I used to do web development stuffs and solving **DSA Programming** problems daily on various platforms.</samp>
